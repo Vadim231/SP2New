@@ -1,0 +1,30 @@
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\КасеновЖ\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\дуйсеналиева\Desktop\FileCopy\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\дуйсеналиева\Desktop\FileCopy\bin\Debug\WindowsFormsApp2.exe
+C:\Users\дуйсеналиева\Desktop\FileCopy\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\дуйсеналиева\Desktop\FileCopy\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\дуйсеналиева\Desktop\FileCopy\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\дуйсеналиева\Desktop\FileCopy\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\дуйсеналиева\Desktop\FileCopy\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\дуйсеналиева\Desktop\FileCopy\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\дуйсеналиева\Desktop\FileCopy\obj\Debug\WindowsFormsApp2.exe
+C:\Users\дуйсеналиева\Desktop\FileCopy\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\bin\Debug\WindowsFormsApp2.exe
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\obj\Debug\WindowsFormsApp2.exe
+C:\Users\vvvva\OneDrive\Рабочий стол\copy\FileCopy\obj\Debug\WindowsFormsApp2.pdb
